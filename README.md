@@ -12,6 +12,7 @@ PROGRAM FOR SIMULATING SLOTTED ALOHA TECHNIQUE
   
   
    Input: 
+          
           The program assumes that senders are spread randomly on a maze of size n X m.
    
           The senders have a random range lying in between a min and max value.
